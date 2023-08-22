@@ -1,0 +1,34 @@
+ion-content{
+  --background: orange;
+} 
+.cabecalho{
+    box-shadow: none;
+    margin-top: 60px;
+}
+.cabecalho ion-img{
+    width: 150px;
+    height: 150px;
+    margin: auto;
+}
+ion-list{
+    margin-top: 60px;
+    background: orange;
+}
+ion-item{
+    --background: orange;
+}
+ion-input{
+   border: 3px solid black;
+   margin-bottom: 15px;
+   padding: 5px !important;
+   border-radius: 5px;
+   
+}
+ion-input label{
+    color: black;
+}
+ion-button{
+   margin: 30px auto auto auto;
+   border-radius: 5px;
+   width: 100%;
+}
