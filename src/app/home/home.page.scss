@@ -1,0 +1,26 @@
+ion-menu-button {
+    color: #ffffff;
+    font-size: 50px;
+  }
+  ion-toolbar{
+    height: 100px;
+    display: flex;
+    color: white;
+      --background: black;
+  }
+  ion-title{
+    text-align: center;
+    margin-right: 45px;
+  }
+  ion-card{
+    padding: 10px;
+    text-align: center;
+  }
+  ion-header{
+    display: flex;
+    justify-content: center;
+    box-shadow: none;
+  } 
+  ion-grid{
+    margin-top: 40px;
+  }

@@ -16,10 +16,11 @@ ion-list{
 }
 ion-item{
     --background: orange;
+    margin-bottom: 15px;
 }
 ion-input{
    border: 3px solid black;
-   margin-bottom: 15px;
+   font-weight: bold;
    padding: 5px !important;
    border-radius: 5px;
    
