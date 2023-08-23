@@ -1,0 +1,55 @@
+ion-menu-button {
+    color: #ffffff;
+    font-size: 50px;
+  }
+
+  ion-toolbar{
+    height: 100px;
+    display: flex;
+    color: white;
+      --background: black;
+  }
+
+  ion-title{
+    text-align: center;
+    margin-right: 45px;
+    text-transform: uppercase;
+  }
+
+  ion-item{
+    --background: black;
+    margin: 20px;
+    color: white;
+    border-radius: 5px;
+  }
+  ion-select{
+    font-weight: bold;
+    padding: 0 10px;
+    width: 50%;
+    margin: auto;
+  }
+  .button{
+    --background: none;
+
+  }
+  ion-button{
+    margin: 30px auto auto auto;
+    border-radius: 5px;
+    width: 100%;
+    background: black;
+    color: white;
+    font-weight: bold;
+ }
+
+ .tabela{
+    background: black;
+ }
+ ion-list-header{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+ }
+ .tabela ion-item{
+    text-align: center;
+    --border-color:white;
+ }
